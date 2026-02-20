@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class lab03 {
+public class task7 {
 
     public static String reverseString(String text) {
 
